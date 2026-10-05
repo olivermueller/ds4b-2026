@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- DS4B course repo ---
+.DS_Store
+.Rhistory
+# Instructor-only material (answer keys, exam, solutions) - never publish
+Xmas_Challenge/
+AUDIT_*.md
+# Large or regenerated files
+*.keras
+glove*.txt
+Session_09/data/
