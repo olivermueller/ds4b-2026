@@ -19,7 +19,7 @@ Before each session, watch the corresponding videos of the ISLP online course. I
 | 7 | `micromortgage_tree-based_models`, `micromortgage_stacking_w_meta` | Trees, random forests, boosting, stacking | Ch. 8 (stacking goes beyond ISLP) |
 | 8 | `ames_mlp_scikit`, `ames_mlp_pytorch` | Neural networks (MLP) | Ch. 10 (10.1, 10.2, 10.7) |
 | 9 | `fashionmnist_mlp_pytorch`, `fashionmnist_cnn_pytorch` | Image classification, CNNs | Ch. 10 (10.3) |
-| 10 | `wine_mlp_tensorflow`, `wine_rnn_tensorflow` | Text data, embeddings, RNNs/LSTMs | Ch. 10 (10.4, 10.5) |
+| 10 | `wine_mlp_pytorch`, `wine_rnn_pytorch` | Text data, embeddings, RNNs/LSTMs | Ch. 10 (10.4, 10.5) |
 | 11 | – | (no notebook) | |
 | 12 | `ames_interpretable_ml` | Interpretable ML: permutation importance, PDP/ICE, SHAP | 2.1.3, 8.2.1 · beyond ISLP: Molnar, *Interpretable Machine Learning* |
 | 13 | `germancredit_fair_ml` | Fair ML: fairness metrics, bias mitigation | beyond ISLP: Barocas, Hardt & Narayanan, *Fairness and Machine Learning* |
