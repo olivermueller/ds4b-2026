@@ -15,7 +15,7 @@ Before each session, watch the corresponding videos of the ISLP online course. I
 | 3 | `ames_linear_regression`, `gradient_descent` | Linear regression, gradient descent | Ch. 3, 10.7 |
 | 4 | `micromortgage_logit` | Logistic regression, ROC/AUC, cross-validation | Ch. 4 (4.3, 4.4.2), 5.1 |
 | 5 | `ames_subset_selection`, `ames_lasso` | Subset selection, lasso | Ch. 6 (6.1, 6.2, 6.4) |
-| 6 | `ames_gam` | Generalized additive models | Ch. 7 (7.5, 7.7) |
+| 6 | `ames_poly_steps_and_splines`, `ames_smoothing_splines_and_gams` | Polynomial regression, step functions, regression splines, smoothing splines, generalized additive models (GAMs) | Ch. 7 (7.1-7.5, 7.7) |
 | 7 | `micromortgage_tree-based_models`, `micromortgage_stacking_w_meta` | Trees, random forests, boosting, stacking | Ch. 8 (stacking goes beyond ISLP) |
 | 8 | `ames_mlp_scikit`, `ames_mlp_pytorch` | Neural networks (MLP) | Ch. 10 (10.1, 10.2, 10.7) |
 | 9 | `fashionmnist_mlp_pytorch`, `fashionmnist_cnn_pytorch` | Image classification, CNNs | Ch. 10 (10.3) |
